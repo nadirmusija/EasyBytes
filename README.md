@@ -64,6 +64,8 @@ Ako želite doprinijeti razvoju aplikacije "Easy Life", dobrodošli ste da to u�
 prijedlozi ili povratne informacije su dobrodošli. Ako primijetite greške u kodu ili imate ideje za nove funkcionalnosti,
  možete ih prijaviti na GitHub repozitoriju aplikacije. Također možete kontaktirati naš tim putem e-maila ili društvenih mreža za podršku. 
 
+Demo pogledajte na:
+http://easylife.ba.www326.your-server.de/
 
 
 Radujemo se vašem doprinosu u poboljšanju EasyLife aplikacije!
